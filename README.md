@@ -1,4 +1,4 @@
-# 🧾 SoftSell — Simple One-Page Website for Software Resale
+# 🧾 SoftSell Simple One-Page Website for Software Resale
 
 This is a clean, single-page marketing website built for a **fictional software resale startup** called **SoftSell**. It was created as part of the **Credex Web Development Internship Assignment**.
 
