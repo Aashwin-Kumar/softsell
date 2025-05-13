@@ -49,7 +49,7 @@ npm install
 npm run dev
 
 ## 🙋‍♂️ Author
-Built with ❤️ by Ashwin
+Built with ❤️ by [Ashwin](https://theashwin.vercel.app/)
 📧 ashwinkmar577@gmail.com
 
 
